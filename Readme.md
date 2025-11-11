@@ -103,7 +103,7 @@ Unit Tests: Add tests in reportapp/tests.py.
 
 ## Run tests:  (Not write yet)
 
-python manage.py 
+python manage.py test
 
 ## Contributing
 
